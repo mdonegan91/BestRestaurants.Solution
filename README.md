@@ -31,7 +31,7 @@
 ```
 * _If you'd like to push this cloned project to a public-facing repository, remember to add the appsettings.json file to your .gitignore first._
 * _Once "appsettings.json" file has been created, navigate back to SQL Workbench._ 
-* _Import the database named ``"molly_donegan.sql"`` from the root directory of the project._ 
+* _Import the database named ``"molly_rose_donegan.sql"`` from the root directory of the project._ 
 
 ## Database Import Instructions
 
